@@ -69,6 +69,6 @@ const head: BNode = {
 ## Crédits
 
 - Toutes ces informations viennent principalement de la [vidéo](https://www.youtube.com/watch?v=1CRkRdDT4cA) de [ThePrimagen](https://github.com/ThePrimeagen)
-- Puis aussi de [Wikipédia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- Puis, aussi de [Wikipédia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 
