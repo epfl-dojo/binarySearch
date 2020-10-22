@@ -2,18 +2,22 @@
 
 ## Introduction
 
-"Binary Search" est un algorithm the recherche de valeur dans un tableau en informatique.
+"Binary Search" est un algorithme de recherche de valeur dans un tableau en informatique.
 
+Par exemple dans un arbre binaire comme ci-dessous.
 ![](./BinaryTree.jpg)
 
-Propriété d'un arbare binaire :
+Propriété d'un arbre binaire :
 - contient 1, 2, ou 0 noeud.
 - Depuis chaque noeud les noeuds se trouvont à gauche son plus petit et à droite plus grand.
-- Le temps de recherche dépend de la hauteur de l'arbre autrement dit : `O(h)` si celle-ci est bien organiser. Voir [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
+- Le temps de recherche dépend de la hauteur de l'arbre autrement dit : `O(h)` 
+si celle-ci est bien organiser. Voir [Time complexity](https://en.wikipedia.org/wiki/Time_complexity) pour plus d'informations.
 
 ## But
 
-Le but est donc sur la base des infomations ci-dessus et de la structure ci-dessous rédiger un programme qui fait des binarySearch
+Le but est donc sur la base des infomations ci-dessus et de la structure 
+ci-dessous d'écrire un programme qui fait un "Binary Search" et qui dit si les 
+valeurs *****13**, **11** et **8** sont dans l'arbre binaire. 
 
 ```javascript
 const head: BNode = {
@@ -62,4 +66,7 @@ const head: BNode = {
 
 ## Crédits
 
-Toutes ces informations viennent principalement de la [vidéo](https://www.youtube.com/watch?v=1CRkRdDT4cA) de [ThePrimagen](https://github.com/ThePrimeagen)
+- Toutes ces informations viennent principalement de la [vidéo](https://www.youtube.com/watch?v=1CRkRdDT4cA) de [ThePrimagen](https://github.com/ThePrimeagen)
+- Puis aussi de [Wikipédia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+
