@@ -9,17 +9,17 @@ Par exemple dans un arbre binaire comme ci-dessous.
 
 Propriété d'un arbre binaire :
 - contient 1, 2, ou 0 noeud.
-- Depuis chaque noeud, les noeuds se trouvont à gauche ont une valeur plus petite
-que le noeud en question et à droite des valeurs grand.
+- Depuis chaque noeud, les noeuds se trouvant à gauche ont une valeur plus petite
+que le noeud en question et à droite une valeur plus grande.
 - Le temps de recherche dépend de la hauteur de l'arbre, autrement dit : `O(h)` 
-si celle-ci est bien organiser. Voir [Time complexity](https://en.wikipedia.org/wiki/Time_complexity) pour plus d'informations.
+si celle-ci est bien organisée. Voir [Time complexity](https://en.wikipedia.org/wiki/Time_complexity) pour plus d'informations.
 
 ## But
 
-Le but est donc de sur la base des infomations ci-dessus et de l'arbre binaire 
-ci-dessous d'écrire une function en **typescript** qui fait un "Binary Search" et
-qui prend comme paramètres l'arbre binaire et la valeur rechechée.
-Puis comme exemples rechercher les valeurs **13**, **11** et **8**.
+Le but est, sur la base des infomations ci-dessus et de l'arbre binaire 
+ci-dessous, d'écrire une fonction en **typescript** qui fait un "Binary Search" et
+qui prend comme paramètres l'arbre binaire et la valeur recherchée.
+Puis, tester avec les valeurs **13**, **11** et **8**.
 
 ```javascript
 const head: BNode = {
