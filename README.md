@@ -17,8 +17,8 @@ si celle-ci est bien organiser. Voir [Time complexity](https://en.wikipedia.org/
 ## But
 
 Le but est donc de sur la base des infomations ci-dessus et de l'arbre binaire 
-ci-dessous d'écrire un programme en ****typescript* qui fait un "Binary Search" et
-qui dit si les valeurs ****13*, *11* et *8* sont dans l'arbre binaire. 
+ci-dessous d'écrire un programme en **typescript** qui fait un "Binary Search" et
+qui dit si les valeurs **13**, **11** et **8** sont dans l'arbre binaire. 
 
 ```javascript
 const head: BNode = {
