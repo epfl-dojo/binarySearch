@@ -1,6 +1,6 @@
 # Binary Search
 
-## Intrudction
+## Introduction
 
 "Binary Search" est un algorithm the recherche de valeur dans un tableau en informatique.
 
