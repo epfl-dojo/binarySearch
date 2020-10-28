@@ -69,6 +69,7 @@ const head: BNode = {
 ## Exécution
 
 Installer [npm](https://www.npmjs.com/) pour exécuter le code avec la commande :
+    
     npx ts-node index.ts
 
 Ou sur [repl.it](https://repl.it/join/lukdihyh-richmartins)
